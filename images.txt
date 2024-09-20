@@ -1,1 +1,1 @@
-whyour/qinglong:latest
+grafana/grafana:11.2.0
