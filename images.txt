@@ -1,1 +1,1 @@
-grafana/grafana:11.2.0
+xprobe/xinference:v0.16.0
