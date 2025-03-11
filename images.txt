@@ -1,1 +1,1 @@
-'ghcr.io/labring/sealos-aiproxy-service:latest'
+ghcr.io/labring/sealos-aiproxy-service:latest
