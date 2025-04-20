@@ -1,1 +1,1 @@
-ghcr.io/labring/fastgpt-mcp_server:v4.9.6
+xprobe/xinference:v1.5.0.post1
