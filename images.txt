@@ -1,2 +1,2 @@
-xprobe/xinference:v1.6.0.post1
+xprobe/xinference:v1.6.1
 
