@@ -1,2 +1,2 @@
-metersphere/metersphere-ce-allinone:v3.6.3-lts
+hub.zentao.net/app/zentao:21.7
 
