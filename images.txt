@@ -1,2 +1,2 @@
-hub.zentao.net/app/zentao:21.7
+xprobe/xinference:v1.7.0
 
