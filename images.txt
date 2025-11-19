@@ -1,1 +1,1 @@
-star7th/showdoc:arm-latest
+xprobe/xinference:v1.13.0
