@@ -1,3 +1,1 @@
-xprobe/xagent-frontend:latest
-xprobe/xagent-backend:latest
-postgres:16-bookworm
+1panel/openclaw:2026.2.19
