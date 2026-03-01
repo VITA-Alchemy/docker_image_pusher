@@ -1,1 +1,1 @@
-xprobe/xinference:v2.2.0
+xprobe/xagent-backend:buildcache
