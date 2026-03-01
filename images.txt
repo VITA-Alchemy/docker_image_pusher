@@ -1,1 +1,1 @@
-xprobe/xagent-backend:latest
+agentscope/copaw:v0.0.3
