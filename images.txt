@@ -1,3 +1,1 @@
-xprobe/xagent-frontend:0.1.2
-xprobe/xagent-backend:0.1.2
-postgres:16-bookworm
+xprobe/xinference:v2.2.0
