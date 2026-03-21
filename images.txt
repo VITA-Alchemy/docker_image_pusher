@@ -1,1 +1,3 @@
-xprobe/xinference:v2.3.0
+xprobe/xinference:latest
+xprobe/xagent-frontend:0.2.1
+xprobe/xagent-backend:0.2.1
