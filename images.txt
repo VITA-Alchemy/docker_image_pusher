@@ -1,1 +1,2 @@
-soulter/astrbot:v4.22.2
+rockchin/langbot:v4.9.5
+calciumion/new-api:v0.11.9
