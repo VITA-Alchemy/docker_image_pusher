@@ -1,2 +1,1 @@
-rockchin/langbot:v4.9.5
-calciumion/new-api:v0.11.9
+codeberg.org/forgejo/forgejo:14.0.1
