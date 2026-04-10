@@ -1,1 +1,1 @@
-codeberg.org/forgejo/forgejo:14.0.1
+gpustack/gpustack:v2.1.1
