@@ -1,1 +1,1 @@
-gpustack/runtime:pause
+gpustack/runner:cuda12.9-vllm0.17.1
