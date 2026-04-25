@@ -1,1 +1,1 @@
-gpustack/benchmark-runner:v0.0.2
+mineru:latest
