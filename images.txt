@@ -1,1 +1,1 @@
-busybox:latest
+semitechnologies/weaviate:1.27.0
