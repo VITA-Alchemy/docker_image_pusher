@@ -1,1 +1,5 @@
-registry:3.1.1
+langgenius/dify-api:1.15.0
+langgenius/dify-web:1.15.0
+langgenius/dify-sandbox:0.2.15
+langgenius/dify-plugin-daemon:0.6.3-local
+busybox:latest
