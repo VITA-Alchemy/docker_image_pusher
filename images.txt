@@ -22,3 +22,4 @@
 elasticsearch:8.11.3
 pgsty/silo:RELEASE.2026-08-06T00-00-00Z
 valkey/valkey:8
+infiniflow/ragflow:v0.27.2
