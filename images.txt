@@ -19,7 +19,13 @@
 #mustangxu/mineru:4.0.4
 ###
 ###ragflow
-elasticsearch:8.11.3
-pgsty/silo:RELEASE.2026-08-06T00-00-00Z
-valkey/valkey:8
-infiniflow/ragflow:v0.27.2
+#elasticsearch:8.11.3
+#pgsty/silo:RELEASE.2026-08-06T00-00-00Z
+#valkey/valkey:8
+#infiniflow/ragflow:v0.27.2
+#
+golang:1.26-bookworm
+node:24-bookworm-slim
+nginx:1.30.3-alpine
+python:3.10.18-bookworm
+debian:12.12-slim
