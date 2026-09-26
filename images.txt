@@ -23,9 +23,12 @@
 #pgsty/silo:RELEASE.2026-08-06T00-00-00Z
 #valkey/valkey:8
 #infiniflow/ragflow:v0.27.2
-#
+###
+##weknora
 #golang:1.26-bookworm
 #node:24-bookworm-slim
 #nginx:1.30.3-alpine
-python:3.10.18-bookworm
-debian:12.12-slim
+#python:3.10.18-bookworm
+#debian:12.12-slim
+##gpustack
+gpustack/runner:cuda12.9-vllm0.29.0
