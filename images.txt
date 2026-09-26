@@ -31,4 +31,5 @@
 #python:3.10.18-bookworm
 #debian:12.12-slim
 ##gpustack
-gpustack/runner:cuda12.9-vllm0.29.0
+#gpustack/runner:cuda12.9-vllm0.29.0
+gpustack/gpustack:v2.2.3
