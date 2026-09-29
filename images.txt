@@ -33,4 +33,5 @@
 ##gpustack
 #gpustack/runner:cuda12.9-vllm0.29.0
 #gpustack/gpustack:v2.2.3
-gpustack/benchmark-runner:v0.0.4
+#gpustack/benchmark-runner:v0.0.4
+neo4j:2025.10.1
