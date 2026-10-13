@@ -36,4 +36,5 @@
 #gpustack/benchmark-runner:v0.0.4
 #neo4j:2025.10.1
 #dockerrr8277/mineru-popo-vllm:latest
-gpustack/runner:cuda13.0-sglang0.5.21
+#gpustack/runner:cuda13.0-sglang0.5.21
+gpustack/runner:cuda13.0-vllm0.31.0
